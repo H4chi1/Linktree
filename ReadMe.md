@@ -31,7 +31,7 @@ O projeto consta com uma interface bem limpa e clara de como se utilizar, com um
 
 ### Acesse o site:
 
-Abra o seu navegador e acesse o URL do [h4chi1.github.io/Linktree/](h4chi1.github.io/Linktree/) ou abra o arquivo index.html na pasta.
+Abra o seu navegador e acesse o URL do [https://h4chi1.github.io/Linktree/index](https://h4chi1.github.io/Linktree/index) ou abra o arquivo index.html na pasta.
 
 ### Navegue pelos botões:
 
