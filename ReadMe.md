@@ -31,7 +31,7 @@ O projeto consta com uma interface bem limpa e clara de como se utilizar, com um
 
 ### Acesse o site:
 
-Abra o seu navegador e acesse o URL do [https://h4chi1.github.io/Linktree/index](https://h4chi1.github.io/Linktree/index) ou abra o arquivo index.html na pasta.
+Abra o seu navegador e acesse o URL do [h4chi1.github.io/Linktree/](h4chi1.github.io/Linktree/) ou abra o arquivo index.html na pasta.
 
 ### Navegue pelos botões:
 
@@ -52,8 +52,4 @@ Se desejar, você pode adicionar o projeto aos favoritos do seu navegador para a
 - H4chi1 - Desenvolvedor geral - [Github](https://github.com/H4chi1)
 
 # 📄 Licença
-Informe a licença do seu projeto. Escolha uma licença que esteja de acordo com as suas intenções sobre como as outras pessoas podem utilizar e contribuir para o seu projeto.
-
-Você pode personalizar o README de acordo com o seu projeto, adicionando seções adicionais ou fornecendo informações específicas sobre como configurá-lo ou usar recursos avançados. Além disso, não se esqueça de usar formatação adequada, como títulos, listas e enfatizar partes importantes.
-
-Espero que isso seja útil para começar o README do seu projeto! Se tiver alguma dúvida específica ou precisar de mais orientação, sinta-se à vontade para perguntar. Boa sorte com o seu projeto no GitHub!
+Este projeto está sob a licença MIT License - veja o arquivo [LICENSE](./LICENSE) para detalhes.
